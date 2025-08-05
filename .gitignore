@@ -4,11 +4,10 @@ homework
 pattern_in_c
 revision
 while_loop
-If_else/*
-!if_else/file1.c
-!if_else/file2.c
-!if_else/file3.c
-/if_else/file4.c
+/if_else/*
+!/if_else/file1.c
+!/if_else/file2.c
+!/if_else/file3.c
 /if_else/file5.c
 /if_else/file6.c
 /if_else/file7.c
