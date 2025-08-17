@@ -9,9 +9,9 @@ Functions
 variable
 pointer
 # while_loop
-/wh10.c
-/wh11.c
-/wh12.c
+# /wh10.c
+# /wh11.c
+# /wh12.c
 /wh13.c
 /wh14.c
 /wh15.c
