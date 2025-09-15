@@ -13,6 +13,6 @@ int main()
     while (i <= n)
     {
         printf("%d\n", i);
-        i += 2;
+        i = i + 2;
     }
 }

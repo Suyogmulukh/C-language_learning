@@ -19,4 +19,4 @@ int main(){
         }
     }
     printf("Even sum from 1 to 10 is %d\n", evensum);
-} 
+}
